@@ -6,19 +6,18 @@ This Power BI project provides an end-to-end analysis of **Superstore sales data
 
 ## 🧰 Tools Used
 - **Power BI** for data visualization and forecasting
-- **Microsoft Excel** (for dataset formatting)
 
 ---
 
 ## 📦 Dataset
-We’ve used the publicly available **Superstore Sales** dataset for this project.
+I’ve used the publicly available **Superstore Sales** dataset for this project.
 
-🔗 [Download Dataset (Excel)](https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting)
+🔗 [Download Dataset (Excel)](https://github.com/tanshigarg/Super-Store-Sales-Dashboard/blob/6c19df3f12c66f24407ea58d665ebc7b938bc012/SuperStore_Sales_Dataset.csv)
 
 ---
 
 ## 📁 Power BI File
-🔗 [Download PBIX File](sandbox:/mnt/data/superstore.pbix)
+🔗 [Download PBIX File](https://github.com/tanshigarg/Super-Store-Sales-Dashboard/blob/6c19df3f12c66f24407ea58d665ebc7b938bc012/Super%20Store%20Sales.pbix)
 
 ---
 
@@ -33,10 +32,10 @@ We’ve used the publicly available **Superstore Sales** dataset for this projec
 - Sales Forecast (with future prediction using built-in Power BI forecasting tool)
 
 📷 **Dashboard Snapshot:**
-![Superstore Sales Dashboard](sandbox:/mnt/data/superstore%20dashboard.png)
+![Superstore Sales Dashboard](https://github.com/tanshigarg/Super-Store-Sales-Dashboard/blob/6c19df3f12c66f24407ea58d665ebc7b938bc012/superstore%20dashboard.png)
 
 📷 **Sales Forecast View:**
-![Sales Forecast](sandbox:/mnt/data/Superstore%20Sales%20forecast.png)
+![Sales Forecast](https://github.com/tanshigarg/Super-Store-Sales-Dashboard/blob/6c19df3f12c66f24407ea58d665ebc7b938bc012/Superstore%20Sales%20forecast.png)
 
 ---
 
@@ -49,14 +48,6 @@ We’ve used the publicly available **Superstore Sales** dataset for this projec
 - 🔹 **Standard Class** is the most preferred shipping method.
 - 🔹 Sales show a seasonal spike around **October to December**.
 - 🔮 Forecast indicates consistent growth in early 2021 based on 2019–2020 trends.
-
----
-
-## ✅ How to Use
-
-1. Open the `.pbix` file in Power BI Desktop.
-2. Interact with filters like Region, Segment, Category, Month, etc.
-3. Use the Date filter to view the detailed trend and forecast.
 
 ---
 
